@@ -25,7 +25,5 @@ six==1.11.0
 subprocess32==3.2.7
 tensorflow-gpu==1.4.1
 tensorflow-tensorboard==0.4.0rc3
-unity-lens-photos==1.0
-vboxapi==1.0
 virtualenv==15.0.1
 Werkzeug==0.14.1
